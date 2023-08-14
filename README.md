@@ -6,7 +6,7 @@
 
 - `GET /api/v1/sectors`
 
-### Student
+### Sector Involved
 
 - `POST /api/v1/sector-involved/create-sectorInvolved`
 - `GET /api/v1/sector-involved/:id`
